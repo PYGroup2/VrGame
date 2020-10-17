@@ -44,7 +44,7 @@ medical centre branding upgrade or redesign along with the VR development; deliv
 * Target audience is children between 3 to 5 years old. 
 * The VR game’s aim is to increase satisfaction of children and parents while they are waiting for their appointment.
 ##Role Allocation for Team Members
-* UI/ UX Geng Feng
+* 3D Artist/Game Designer Geng Feng
 
 ##Stakeholder Analysis
 
